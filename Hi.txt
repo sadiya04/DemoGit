@@ -1,4 +1,9 @@
 Hello Java
 
 
+<<<<<<< HEAD
 HI Java
+=======
+
+Hi Hello Bye BBye Java
+>>>>>>> child
